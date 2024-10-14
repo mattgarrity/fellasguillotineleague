@@ -1,0 +1,2 @@
+# With shell, you can just curl the username or user_id
+curl "https://api.sleeper.app/v1/user/mattgarrity1"
